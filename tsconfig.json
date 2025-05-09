@@ -26,6 +26,7 @@
       "enums": ["app/shared/enums"],
       "utils": ["app/shared/utils"],
       "store/*": ["store/*"],
+      "assets/*": ["assets/*"],
       "environments/*": ["environments/*"]
     }
   },
